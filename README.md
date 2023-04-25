@@ -1,0 +1,2 @@
+A extremely barebones demonstration app for Flutter and [Hot Chocolate](https://chillicream.com/docs/hotchocolate/v13)
+utilising data from [Sanctuary.Census](https://github.com/PS2Sanctuary/Sanctuary.Census).
